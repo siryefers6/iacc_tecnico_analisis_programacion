@@ -1,0 +1,1086 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "McJ4_rEtehTsZEOsjeMWk",
+      "type": "ellipse",
+      "x": 507.3938838213271,
+      "y": -2228.739416488975,
+      "width": 790.0923280265785,
+      "height": 269,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1002583815,
+      "version": 323,
+      "versionNonce": 129259969,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "Rha6xTKc7hLrXbjeoS0zd"
+        },
+        {
+          "id": "nANDTIVAnKsuO1sQIPVqg",
+          "type": "arrow"
+        },
+        {
+          "id": "TZQHw8ycmURniVvF9K_F_",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1775057266752,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "Rha6xTKc7hLrXbjeoS0zd",
+      "type": "text",
+      "x": 637.352301574399,
+      "y": -2161.845278558566,
+      "width": 530.495849609375,
+      "height": 135,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0V",
+      "roundness": null,
+      "seed": 1714467465,
+      "version": 341,
+      "versionNonce": 801419621,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1775055180545,
+      "link": null,
+      "locked": false,
+      "text": "PRESENTACION\nASIGNATURA:\nHabilidades para el aprendizaje",
+      "fontSize": 36,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "McJ4_rEtehTsZEOsjeMWk",
+      "originalText": "PRESENTACION ASIGNATURA:\nHabilidades para el aprendizaje",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "kw_uTMAiuKKMl3N2QqZzc",
+      "type": "text",
+      "x": 521.6447495761528,
+      "y": -1473.0192982995877,
+      "width": 165.4878692626953,
+      "height": 20,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aA",
+      "roundness": null,
+      "seed": 12619010,
+      "version": 117,
+      "versionNonce": 228041758,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "KZukn1K-KzIMj-r4KKVLa",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1775055802230,
+      "link": null,
+      "locked": false,
+      "text": "comunicación efectiva",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "comunicación efectiva",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "anDgETssGBHfAqpD8v4hr",
+      "type": "text",
+      "x": 126.65539585126459,
+      "y": -1528.0458049960166,
+      "width": 359.3756408691406,
+      "height": 20,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aB",
+      "roundness": null,
+      "seed": 1605976350,
+      "version": 71,
+      "versionNonce": 1594735582,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "T_vRTyc3lWBMSwGlUitZO",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1775055800328,
+      "link": null,
+      "locked": false,
+      "text": "herramientas para el desarrollo del aprendizaje",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "herramientas para el desarrollo del aprendizaje",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "YvfutjjoS-rL_o4VicHBM",
+      "type": "text",
+      "x": 717.5591695677826,
+      "y": -1501.326183065213,
+      "width": 149.16787719726562,
+      "height": 20,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aC",
+      "roundness": null,
+      "seed": 1555470210,
+      "version": 107,
+      "versionNonce": 816360286,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "9LKT3VhWH7nxDlJquGcWE",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1775055805099,
+      "link": null,
+      "locked": false,
+      "text": "pensamiento crítico",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "pensamiento crítico",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "9K51UkEaKkfpPLYN1Dp0f",
+      "type": "text",
+      "x": 365.30421700081797,
+      "y": -1623.9319482716862,
+      "width": 443.879638671875,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aD",
+      "roundness": null,
+      "seed": 1988319518,
+      "version": 101,
+      "versionNonce": 1008168414,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "P9hFIgrTiRYmyRMkKCVXI",
+          "type": "arrow"
+        },
+        {
+          "id": "T_vRTyc3lWBMSwGlUitZO",
+          "type": "arrow"
+        },
+        {
+          "id": "KZukn1K-KzIMj-r4KKVLa",
+          "type": "arrow"
+        },
+        {
+          "id": "9LKT3VhWH7nxDlJquGcWE",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1775055798727,
+      "link": null,
+      "locked": false,
+      "text": "mediante el uso de tecnologías de información",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "mediante el uso de tecnologías de información",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "Ugrfkr4oYKmno74pjDAuA",
+      "type": "text",
+      "x": 43.864330816852316,
+      "y": -1755.387011864506,
+      "width": 1117.759765625,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aE",
+      "roundness": null,
+      "seed": 139982018,
+      "version": 85,
+      "versionNonce": 1226091614,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "6euSd74GPQgM3AjyJ71ty",
+          "type": "arrow"
+        },
+        {
+          "id": "P9hFIgrTiRYmyRMkKCVXI",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1775055797175,
+      "link": null,
+      "locked": false,
+      "text": "DESARROLLAR LA AUTOGESTION DE LA INFORMACIÓN Y EL CONOCIMIENTO",
+      "fontSize": 28,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "DESARROLLAR LA AUTOGESTION DE LA INFORMACIÓN Y EL CONOCIMIENTO",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "MoAq33OR884YpMcdPlExS",
+      "type": "text",
+      "x": 459.9814049658479,
+      "y": -1906.1542019802987,
+      "width": 463.85986328125,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aF",
+      "roundness": null,
+      "seed": 1885989506,
+      "version": 104,
+      "versionNonce": 1355806686,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "nANDTIVAnKsuO1sQIPVqg",
+          "type": "arrow"
+        },
+        {
+          "id": "6euSd74GPQgM3AjyJ71ty",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1775055795724,
+      "link": null,
+      "locked": false,
+      "text": "TIENE COMO FINALIDAD",
+      "fontSize": 36,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "TIENE COMO FINALIDAD",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "nANDTIVAnKsuO1sQIPVqg",
+      "type": "arrow",
+      "x": 732.5229583784309,
+      "y": -1971.843816966616,
+      "width": 72.4470239911941,
+      "height": 56.49652155021272,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aG",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 121520542,
+      "version": 129,
+      "versionNonce": 968107586,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1775055829491,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -72.4470239911941,
+          56.49652155021272
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "McJ4_rEtehTsZEOsjeMWk",
+        "focus": 0.02284660811850097,
+        "gap": 1
+      },
+      "endBinding": {
+        "elementId": "MoAq33OR884YpMcdPlExS",
+        "focus": -0.27791885690517004,
+        "gap": 9.193093436104618
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "6euSd74GPQgM3AjyJ71ty",
+      "type": "arrow",
+      "x": 641.4019556783536,
+      "y": -1849.5801053006107,
+      "width": 25.57642152154756,
+      "height": 90.02642676943833,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aH",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 737248926,
+      "version": 185,
+      "versionNonce": 414937246,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1775055797175,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -25.57642152154756,
+          90.02642676943833
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "MoAq33OR884YpMcdPlExS",
+        "focus": 0.17395472657395317,
+        "gap": 11.574096679687727
+      },
+      "endBinding": {
+        "elementId": "Ugrfkr4oYKmno74pjDAuA",
+        "focus": 0.01215051589195232,
+        "gap": 4.1666666666667425
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "P9hFIgrTiRYmyRMkKCVXI",
+      "type": "arrow",
+      "x": 590.6486389715417,
+      "y": -1705.109200178308,
+      "width": 13.751210663817687,
+      "height": 69.60315522693395,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aI",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 672419230,
+      "version": 186,
+      "versionNonce": 1894384158,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1775055798727,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -13.751210663817687,
+          69.60315522693395
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "Ugrfkr4oYKmno74pjDAuA",
+        "focus": 0.01108513302447584,
+        "gap": 15.277811686197765
+      },
+      "endBinding": {
+        "elementId": "9K51UkEaKkfpPLYN1Dp0f",
+        "focus": -0.06791985248488884,
+        "gap": 11.5740966796875
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "T_vRTyc3lWBMSwGlUitZO",
+      "type": "arrow",
+      "x": 533.0770827223829,
+      "y": -1585.5060449513737,
+      "width": 135.03098045733333,
+      "height": 47.73815336681537,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aJ",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 267683102,
+      "version": 131,
+      "versionNonce": 1004965918,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1775055800328,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -135.03098045733333,
+          47.73815336681537
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "9K51UkEaKkfpPLYN1Dp0f",
+        "focus": -0.07687933088437666,
+        "gap": 13.4259033203125
+      },
+      "endBinding": {
+        "elementId": "anDgETssGBHfAqpD8v4hr",
+        "focus": 0.17045337093962873,
+        "gap": 9.722086588541742
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "KZukn1K-KzIMj-r4KKVLa",
+      "type": "arrow",
+      "x": 579.9506000067815,
+      "y": -1589.2097599578842,
+      "width": 12.404077622074055,
+      "height": 112.02379499162976,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aK",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1517442946,
+      "version": 166,
+      "versionNonce": 160002142,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1775055802230,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          12.404077622074055,
+          112.02379499162976
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "9K51UkEaKkfpPLYN1Dp0f",
+        "focus": 0.04491264918963281,
+        "gap": 9.722188313802008
+      },
+      "endBinding": {
+        "elementId": "kw_uTMAiuKKMl3N2QqZzc",
+        "focus": -0.12523144194721206,
+        "gap": 4.1666666666667425
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "9LKT3VhWH7nxDlJquGcWE",
+      "type": "arrow",
+      "x": 659.2575817658942,
+      "y": -1590.5325661799825,
+      "width": 127.83739827985494,
+      "height": 86.89162481398807,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aL",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1578756802,
+      "version": 212,
+      "versionNonce": 192384926,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1775055805099,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          127.83739827985494,
+          86.89162481398807
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "9K51UkEaKkfpPLYN1Dp0f",
+        "focus": -0.17239202206544577,
+        "gap": 8.399382091703728
+      },
+      "endBinding": {
+        "elementId": "YvfutjjoS-rL_o4VicHBM",
+        "focus": 0.145944784914666,
+        "gap": 2.3147583007814774
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "MhuYlPVFP7fQFLXknd8da",
+      "type": "text",
+      "x": 1244.5312522596605,
+      "y": -2007.2239469785914,
+      "width": 591.0118408203125,
+      "height": 45,
+      "angle": 5.688275890153651,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aM",
+      "roundness": null,
+      "seed": 1496961010,
+      "version": 246,
+      "versionNonce": 363306369,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "8k37JLG0lqWxZYK96RRM0",
+          "type": "arrow"
+        },
+        {
+          "id": "b-QjXBFa81Rfu4rCm5dbZ",
+          "type": "arrow"
+        },
+        {
+          "id": "roZakP5G-EZT5EaLDRrq9",
+          "type": "arrow"
+        },
+        {
+          "id": "TZQHw8ycmURniVvF9K_F_",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1775057266752,
+      "link": null,
+      "locked": false,
+      "text": "ESTRUCTURA DE ASIGNATURA",
+      "fontSize": 36,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "ESTRUCTURA DE ASIGNATURA",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "OrDO51Hyc8qmtquCxpFbx",
+      "type": "text",
+      "x": 930.2407041432282,
+      "y": -1531.7237672217188,
+      "width": 632.939697265625,
+      "height": 35,
+      "angle": 5.688275890153651,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aO",
+      "roundness": null,
+      "seed": 467135026,
+      "version": 126,
+      "versionNonce": 432112097,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "8k37JLG0lqWxZYK96RRM0",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1775057263083,
+      "link": null,
+      "locked": false,
+      "text": "Unidad 1. Estrategias para el éxito académico.",
+      "fontSize": 28,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Unidad 1. Estrategias para el éxito académico.",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "rEObZASMZVpoErMohObRi",
+      "type": "text",
+      "x": 1459.187339006933,
+      "y": -1819.9337142092204,
+      "width": 684.4317016601562,
+      "height": 70,
+      "angle": 5.688275890153651,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aP",
+      "roundness": null,
+      "seed": 1968172526,
+      "version": 184,
+      "versionNonce": 39927201,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "b-QjXBFa81Rfu4rCm5dbZ",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1775057263083,
+      "link": null,
+      "locked": false,
+      "text": "Unidad 2. Estrategias para comprender y procesar\ninformación.",
+      "fontSize": 28,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Unidad 2. Estrategias para comprender y procesar información.",
+      "autoResize": false,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "7GY6-24mPEnr4xN5FxVEC",
+      "type": "text",
+      "x": 1790.463576443098,
+      "y": -2176.6792685073933,
+      "width": 771.1197509765625,
+      "height": 35,
+      "angle": 5.688275890153651,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aQ",
+      "roundness": null,
+      "seed": 1038539634,
+      "version": 153,
+      "versionNonce": 2140473697,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "roZakP5G-EZT5EaLDRrq9",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1775057263083,
+      "link": null,
+      "locked": false,
+      "text": "Unidad 3. Estrategias para el mundo de hoy y el mañana.",
+      "fontSize": 28,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Unidad 3. Estrategias para el mundo de hoy y el mañana.",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "8k37JLG0lqWxZYK96RRM0",
+      "type": "arrow",
+      "x": 1608.6796557981763,
+      "y": -1819.6534114137871,
+      "width": 462.2222900390625,
+      "height": 164.4444580078125,
+      "angle": 5.688275890153651,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aR",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 25641646,
+      "version": 404,
+      "versionNonce": 1085835759,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1775057263264,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -462.2222900390625,
+          164.4444580078125
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "MhuYlPVFP7fQFLXknd8da",
+        "focus": 0.1327309119428298,
+        "gap": 9.444458007811818
+      },
+      "endBinding": {
+        "elementId": "OrDO51Hyc8qmtquCxpFbx",
+        "focus": -0.21599100899249274,
+        "gap": 11.388854980468977
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "b-QjXBFa81Rfu4rCm5dbZ",
+      "type": "arrow",
+      "x": 1627.719727934127,
+      "y": -1987.96851711509,
+      "width": 9.52379499162953,
+      "height": 236.50791713169633,
+      "angle": 5.688275890153651,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aS",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2109470017,
+      "version": 372,
+      "versionNonce": 222566959,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1775057263264,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          9.52379499162953,
+          236.50791713169633
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "MhuYlPVFP7fQFLXknd8da",
+        "focus": 0.0209279240434996,
+        "gap": 6.2258787609264346
+      },
+      "endBinding": {
+        "elementId": "rEObZASMZVpoErMohObRi",
+        "focus": -0.24948448402084925,
+        "gap": 11.710662115189507
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "roZakP5G-EZT5EaLDRrq9",
+      "type": "arrow",
+      "x": 1608.0906023580671,
+      "y": -2146.58138173025,
+      "width": 493.65086146763406,
+      "height": 155.5555507114957,
+      "angle": 5.688275890153651,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aT",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 122400385,
+      "version": 411,
+      "versionNonce": 332962415,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1775057263264,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          493.65086146763406,
+          155.5555507114957
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "MhuYlPVFP7fQFLXknd8da",
+        "focus": 0.08130745330434846,
+        "gap": 6.225878760925752
+      },
+      "endBinding": {
+        "elementId": "7GY6-24mPEnr4xN5FxVEC",
+        "focus": 0.04142574683592741,
+        "gap": 10.162967500234572
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "TZQHw8ycmURniVvF9K_F_",
+      "type": "arrow",
+      "x": 1279.262024269233,
+      "y": -2066.814830889455,
+      "width": 218.518575032552,
+      "height": 70.37038167317723,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aU",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 970552463,
+      "version": 34,
+      "versionNonce": 1449490849,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1775057266752,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          218.518575032552,
+          70.37038167317723
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "McJ4_rEtehTsZEOsjeMWk",
+        "focus": -0.35887774273525064,
+        "gap": 8.256659687959718
+      },
+      "endBinding": {
+        "elementId": "MhuYlPVFP7fQFLXknd8da",
+        "focus": 0.0072878469200233385,
+        "gap": 10.888920658867391
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
